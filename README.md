@@ -1,7 +1,7 @@
-# Plotting-Loan-Amount-Plotly-D3-
+# Plotting Loan Data in Python using Plotly-D3
 Here I am showing total loan amount from each state in US
 
-##Output:
+##Output: [Plotly](https://plot.ly/~mantejsingh/88/most-calamities-hover-for-details/)
 [![screenshot_1486397265.png](https://s19.postimg.org/f5rvks3lf/screenshot_1486397265.png)](https://postimg.org/image/gktg9i4of/)
 
 
