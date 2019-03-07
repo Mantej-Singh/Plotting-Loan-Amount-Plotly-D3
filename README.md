@@ -2,8 +2,7 @@
 Here I am showing total loan amount from each state in US
 
 ##Output1: [Choropleth Map](https://plot.ly/~mantejsingh/90/_2016-us-borrowed-loan-amount-by-state-hover-for-breakdown/)
-[![screenshot_1486397265.png](https://s19.postimg.org/f5rvks3lf/screenshot_1486397265.png)](https://postimg.org/image/gktg9i4of/)
-
+[![screenshot-1486397265.png](https://i.postimg.cc/L61r6KCt/screenshot-1486397265.png)](https://postimg.cc/bsq63Mjr)
 
 ## Converting 'float' loan type to Dollar '$' loan type in dataset
 ```
@@ -11,11 +10,10 @@ df['Borrow_Amount'] = df['Borrow_Amount'].map('${:,.2f}'.format)
 ```
 
 ### Before:
-[![screenshot_1486397751.png](https://s19.postimg.org/ma9ottaur/screenshot_1486397751.png)](https://postimg.org/image/l7zib9s1b/)
+[![screenshot-1486397751.png](https://i.postimg.cc/L6P8dWj7/screenshot-1486397751.png)](https://postimg.cc/hfSBTpyb)
 
 ### After:
-[![screenshot_1486397783.png](https://s19.postimg.org/az715g3zn/screenshot_1486397783.png)](https://postimg.org/image/jhgh9sai7/)
-
+[![screenshot-1486397783.png](https://i.postimg.cc/TYbgkC12/screenshot-1486397783.png)](https://postimg.cc/RNMWh1w2)
 
 ## Setting data on Choropleth Map
 ```
@@ -42,8 +40,7 @@ data = [ dict(
 
 ##Output2: [Bubble Map](https://plot.ly/~mantejsingh/92/_2016-us-borrowed-loan-amount-by-state-in-millons-click-legend-to-toggle-traces/)
 
-[![screenshot_1486411054.png](https://s19.postimg.org/3pz8rytkj/screenshot_1486411054.png)](https://postimg.org/image/ff38fxkj3/)
-
+[![screenshot-1486411054.png](https://i.postimg.cc/Hsypn0QF/screenshot-1486411054.png)](https://postimg.cc/nCn8wDS1)
 
 ## Setting data on Bubble Map
 ```
